@@ -2,7 +2,7 @@
     "version": 2,
     "alias": ["testpb.net", "www.testpb.net"],
     "builds": [
-        { "src": "testauth.js", "use": "@now/node-server"}
+        { "src": "testpb.js", "use": "@now/node-server"}
     ],
     "public": true,
     "routes": [
