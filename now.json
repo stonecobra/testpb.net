@@ -1,5 +1,5 @@
 {
     "version": 2,
-    "alias": ["testpb.net", "www.testpb.net"],
+    "alias": ["testpb.net"],
     "public": true
 }
